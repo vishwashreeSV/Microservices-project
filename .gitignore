@@ -1,0 +1,13 @@
+# Ignore Docker volumes and MySQL socket/data files
+**/volume-data/
+**/mysql_keycloak_data/
+**/*.sock
+**/*.pid
+**/*.log
+**/*.err
+
+# Java build artifacts
+**/target/
+
+# IntelliJ IDEA files
+**/.idea/
