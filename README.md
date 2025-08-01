@@ -1,1 +1,3 @@
+Online Shopping Microservices System
+
 This project is a microservices-based Online Shopping System developed using Spring Boot. It includes modular services such as Product, Order, Inventory, and Notification, each deployed independently and containerized with Docker. Secure authentication is implemented using Keycloak with OAuth2 and JWT for role-based access control. The system follows distributed system principles, incorporating a Resilience4j circuit breaker to ensure fault tolerance and service resilience. Kafka is used for asynchronous inter-service communication. Basic monitoring is set up using Grafana. The project highlights my understanding of backend development, scalable architecture, and secure communication within distributed environments.
